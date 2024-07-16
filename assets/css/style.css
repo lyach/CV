@@ -1,0 +1,19 @@
+body {
+    font-family: Cambria, serif;
+}
+
+.site-logo img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.page-content {
+    background-color: #f0f0f0; 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.page-content .download-buttons {
+    display: none;
+}
