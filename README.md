@@ -1,3 +1,4 @@
+
 ## Education
 **B.S. in Biotechnology Engineering** | Tecnologico de Monterrey | June 2024
 GPA 4.0, 1st in Class Honors
