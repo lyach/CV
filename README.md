@@ -4,7 +4,7 @@ GPA 4.0, 1st in Class Honors
 
 ## Experience
 **Intern | Laboratory for Metabolic Systems Engineering** (Jul 2023-Present)   
-University of Toronto                                          Toronto, CAN
+*University of Toronto* Toronto, CAN
 - 1
 - 2
 
