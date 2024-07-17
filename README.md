@@ -12,6 +12,7 @@ University of Toronto                                          Toronto, CAN
 **Programming**
 - 1
 - 2
+
 **Tools & Methods**
 - 1
 - 2
