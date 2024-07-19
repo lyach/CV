@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+@import "jekyll-theme-minimal";  /* Import the remote theme styles */
 
 body {
     font-family: Cambria, serif;
