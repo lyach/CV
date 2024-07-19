@@ -8,5 +8,3 @@ social_links:
     url: "https://www.linkedin.com/in/lya-chi%C3%B1as-serrano/"
 plugins:
   - jekyll-remote-theme
-css:
-  - /assets/css/style.css
