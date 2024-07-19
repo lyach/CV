@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | escape }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-logo">
+        <img src="{{ site.logo | relative_url }}" alt="Logo">
+      </div>
+      <h1 class="site-title">{{ site.title | escape }}</h1>
+      <p class="site-description">{{ site.description | escape }}</p>
+    </header>
+    <main class="page-content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <p>Hosted on GitHub Pages — Theme by orderedlist</p>
+    </footer>
+  </body>
+</html>
