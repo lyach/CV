@@ -1,4 +1,9 @@
  
+---
+title: "Lya Chiñas"
+description: "Curriculum Vitae"
+---
+
 ## Education
 ### B.S. in Biotechnology Engineering
 
