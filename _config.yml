@@ -1,12 +1,12 @@
-title: Lya Chiñas Serrano
-description: B.S. in Biotechnology Engineering
+title: "Lya Chiñas Serrano"
+description: "B.S. in Biotechnology Engineering"
 remote_theme: pages-themes/minimal@v0.2.0
 logo: assets/images/portrait.png
 email: lya.chinas@mail.utoronto.ca
 social_links:
-- name: LinkedIn
-    url: https://www.linkedin.com/in/lya-chi%C3%B1as-serrano/
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/lya-chi%C3%B1as-serrano/"
 plugins:
-- jekyll-remote-theme
-css: 
-- /assets/css/style.css
+  - jekyll-remote-theme
+css:
+  - /assets/css/style.css
