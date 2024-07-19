@@ -1,6 +1,7 @@
 title: Lya Chiñas Serrano
 description: B.S. in Biotechnology Engineering
 remote_theme: pages-themes/minimal@v0.2.0
+logo: assets/images/portrait.png
 plugins:
 - jekyll-remote-theme
 css: 
