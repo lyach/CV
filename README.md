@@ -144,7 +144,7 @@ GPA 4.0, 1st in Class Honors
 
 
 
-## MISCELLANEOUS
+## Miscellaneous 
 
 ### Marketing and Design Freelance Work 
 
