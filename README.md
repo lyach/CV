@@ -80,7 +80,7 @@ GPA 4.0, 1st in Class Honors
 
 ### Best GPAs in the Department of Engineering and Science
 
-***ITESM*** **•Aug 2020–Jun 2024**
+***ITESM*** **• Aug 2020–Jun 2024**
 
   • Recognition given to the engineering students with the 3% highest GPAs of the term. Achieved throughout all years of undergraduate studies.
 
@@ -122,18 +122,18 @@ GPA 4.0, 1st in Class Honors
 
 ### Science and English tutoring classes 
 
-**•Aug 2021–Jun 2022**
+**Aug 2021–Jun 2022**
 
-  •	Tutored undergraduate students at ITESM Campus Puebla in Chemistry, Biology, Programming, and Mathematics courses.
+  •	Tutored undergraduate students at *ITESM* Puebla in Chemistry, Biology, Programming, and Mathematics courses.
 
-  •	Prepared and conducted English classes for 2nd-grade students at 'Manuel Ávila Camacho' public school in Puebla.
+  •	Prepared and conducted English classes for 2nd-grade students at *'Escuela Primaria Presidente Manuel Ávila Camacho'* elementary school in Puebla.
 
 
 ### *Indigenia Mundus A.C.* Non-profit organization
 
 **Dec 2021–Feb 2022**
 
-  •	Produced a podcast episode aimed at promoting the organization's social work to support the Wixárika indigenous community.
+  •	Produced a podcast episode aimed at promoting the organization's social work to support the *Wixárika* indigenous community.
 
 
 ### *Al Diablo Las Tallas A.C.* Non-profit organization
