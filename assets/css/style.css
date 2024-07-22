@@ -3,12 +3,71 @@ body {
     font-family: Cambria, serif;
 }
 
+.site-header {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
 .site-logo img {
     border-radius: 50%;
     width: 150px;
     height: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+.site-title {
+    font-size: 2.5em;
+    margin-top: 0.5em;
+}
+
+.site-description {
+    font-size: 1.25em;
+    margin-top: 0;
+}
+
+.contact-links {
+    margin-top: 1em;
+}
+
+.contact-links a {
+    text-decoration: none;
+    color: #007acc;
+    margin: 0 0.5em;
+}
+
+.contact-links a:hover {
+    text-decoration: underline;
+}
+
+.page-content h2,
+.page-content h3 {
+    position: relative;
+    padding-top: 1em;
+    margin-top: 2em;
+}
+
+.page-content h2::before,
+.page-content h3::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background-color: #007acc;
+    margin-bottom: 1em;
+}
+
+.page-content h3 {
+    margin-top: 1.5em;
+}
+
+.page-content p {
+    margin-bottom: 1em;
 }
 
 .page-content .download-buttons {
     display: none;
 }
+\

@@ -22,7 +22,7 @@ GPA 4.0, 1st in Class Honors
   
   •	Incorporated deep learning-predicted kinetic constraints to improve the accuracy of the GEMs.
   
-  •	Designed a framework that efficiently processes omics information across multiple databases.
+  • Designed a data mining framework to process omics information, facilitating integration and analysis across different databases.
 
 
 ### Organizing Committee | BioMolecule Research Lab Symposium 2023
@@ -104,7 +104,7 @@ GPA 4.0, 1st in Class Honors
   •	Modeling, Linear and Non-Linear Optimization, Algorithms, Data structures, API integration
 
 ### Tools 
-  •	NumPy, Pandas, scikit-learn, Matplotlib, Git, LaTeX, Pyomo, COBRApy
+  •	NumPy, Pandas, scikit-learn, Matplotlib, Git, Pyomo, COBRApy
 
 
 ## Laboratory

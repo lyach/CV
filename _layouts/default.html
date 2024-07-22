@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -13,6 +14,10 @@
       </div>
       <h1 class="site-title">{{ site.title | escape }}</h1>
       <p class="site-description">{{ site.description | escape }}</p>
+      <div class="contact-links">
+        <a href="{{ site.social_links[0].url }}" target="_blank">LinkedIn</a> | 
+        <a href="mailto:{{ site.email }}">Email</a>
+      </div>
     </header>
     <main class="page-content">
       {{ content }}
