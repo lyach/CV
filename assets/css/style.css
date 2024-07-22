@@ -8,6 +8,14 @@ body {
     margin-bottom: 2em;
 }
 
+.site-logo img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
 .site-title {
     font-size: 2.5em;
     margin-top: 0.5em;
@@ -34,8 +42,9 @@ body {
 
 .page-content h2 {
     position: relative;
-    padding-bottom: 1em;
-    margin-bottom: 2em;
+    padding-bottom: 0.5em;  
+    margin-top: 2.5em;      
+    margin-bottom: 1em;    
 }
 
 .page-content h2::after {
@@ -45,5 +54,13 @@ body {
     left: 0;
     right: 0;
     height: 4px;
-    background-color: #007acc;  /* This line sets the blue color */
+    background-color: #007acc;  
+}
+
+.page-content p {
+    margin-bottom: 1em;
+}
+
+.page-content .download-buttons {
+    display: none;
 }
