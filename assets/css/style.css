@@ -8,14 +8,6 @@ body {
     margin-bottom: 2em;
 }
 
-.site-logo img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    display: block;
-    margin: 0 auto;
-}
-
 .site-title {
     font-size: 2.5em;
     margin-top: 0.5em;
