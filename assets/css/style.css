@@ -40,34 +40,18 @@ body {
     text-decoration: underline;
 }
 
-.page-content h2,
-.page-content h3 {
+.page-content h2 {
     position: relative;
-    padding-top: 1em;
-    margin-top: 2em;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
 }
 
-.page-content h2::before,
-.page-content h3::before {
+.page-content h2::after {
     content: "";
     position: absolute;
-    top: 0;
+    bottom: 0;
     left: 0;
     right: 0;
     height: 4px;
-    background-color: #007acc;
-    margin-bottom: 1em;
+    background-color: #007acc;  /* This line sets the blue color */
 }
-
-.page-content h3 {
-    margin-top: 1.5em;
-}
-
-.page-content p {
-    margin-bottom: 1em;
-}
-
-.page-content .download-buttons {
-    display: none;
-}
-\
